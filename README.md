@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **jjjssswww1006@gmail.com**
 
-- ⚡ Fun fact **Huge fan of ASOIAF universe**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
