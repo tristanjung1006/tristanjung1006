@@ -2,10 +2,52 @@
 
 <h3 align="left">Android & Python developer from South Korea</h3>
 
-- 🌱 I’m currently learning **Android based on Kotlin**
+<h3 align="center">Main Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-- 📫 How to reach me **tristan1006@naver.com**
+</div>
+
+<h3 align="center">What I'm into these days</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Jetpack Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</div>
+
+<h3 align="center">Main Tools</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/-Wondershare-000000?style=for-the-badge&logo=wondershare&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>&nbsp
+</div>
+<br />
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanjung1006&show_icons=true&locale=en" alt="tristanjung1006" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristanjung1006&show_icons=true&locale=en&layout=compact" alt="tristanjung1006" /></p>
+
+<h3 align="center">Contact</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/jjjssswww1006@gmail.com-ME-d14836?style=for-the-badge&logo=gmail&link=mailto:jjjssswww1006@gmail.com"/>
+  <a href="https://velog.io/@tristanjung1006/posts">
+  <img src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/2000years_later/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
+  <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+</div>
+
+<h3 align="center"></h3>
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftristanjung1006&count_bg=%23C83D3D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
