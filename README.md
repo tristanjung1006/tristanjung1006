@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Android based on Kotlin**
 
-- 📫 How to reach me **jjjssswww1006@gmail.com**
+- 📫 How to reach me **tristan1006@naver.com**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanjung1006&show_icons=true&locale=en" alt="tristanjung1006" /></p>
 
