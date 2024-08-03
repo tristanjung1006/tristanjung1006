@@ -35,13 +35,12 @@
 
 <h3 align="center">Click and Find Me!</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/jjjssswww1006@gmail.com-ME-d14836?style=for-the-badge&logo=gmail&link=mailto:jjjssswww1006@gmail.com"/>
-  <a href="https://velog.io/@tristanjung1006/posts">
-  <img src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-  <a href="https://www.reddit.com/user/2000years_later/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
   <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/jjjssswww1006@gmail.com-ME-d14836?style=for-the-badge&logo=gmail&link=mailto:jjjssswww1006@gmail.com"/>
+  <a href="https://velog.io/@tristanjung1006/posts">
 </div>
 <br />
 
