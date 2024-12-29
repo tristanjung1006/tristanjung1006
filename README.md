@@ -1,6 +1,6 @@
 <h3 align="left">Android Developer SeungWon Jung</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=tristanjung1006&bg_color=ffffff&title_color=000000&text_color=000000" style="border-radius: 0; width: 400px; height: auto;">
+<img src="https://github-readme-stats.vercel.app/api?username=tristanjung1006&theme=shadow_red&show_icons=true" style="border-radius: 0; width: 400px; height: auto;">
 
  <h4>Experiences</h4>
  <ul>
