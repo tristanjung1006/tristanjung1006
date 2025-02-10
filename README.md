@@ -7,7 +7,7 @@
  <li>2023.09. ~ 2024.02. (前 UMC 5th Android Part)</li>
  <li>2024.03. ~ 2024.08. (前 UMC 6th Campus Android Part Lead)</li>
  <li>2024.05. ~ (現 GDG SangMyung)</li>
- <li>2024.08. ~ (現 UMC 7th Central Android Part Lead)</li>
+ <li>2024.08. ~ (現 UMC 7th, 8th Central Android Part Lead)</li>
  <li>2024.12. ~ (現 CMC 16th Android Part)</li>
  </ul>
 
