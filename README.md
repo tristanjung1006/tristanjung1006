@@ -6,11 +6,11 @@
  <ul>
  <li>2023.09. ~ 2024.02. (前 UMC 5th Android 챌린저)</li>
  <li>2024.03. ~ 2024.08. (前 UMC 6th 교내 Android 파트장)</li>
- <li>2024.05. ~ 2024.12. (前 GDG SangMyung)</li>
  <li>2024.08. ~ 2025.02. (前 UMC 7th 중앙, 교내 Android 파트장)</li>
  <li>2024.12. ~ 2025.03. (前 CMC 16th Android 챌린저)</li>
  <li>2025.02. ~ (現 UMC 8th 중앙 Android 파트장)</li>
  <li>2025.03. ~ (現 CMC 17th Android Lead)</li>
+ <li>2020.02. ~ 2026.02. (現 SangMyung University Computer Science)</li>
  <li>2023.05. ~ 업무 자동화 분야 외주 경험 多</li>
  </ul>
 
