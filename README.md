@@ -13,6 +13,9 @@
 
 <h3>Contact</h3>
 
+* [Tech Blog](https://velog.io/@tristanjung1006/)
+* [LinkedIn](https://www.linkedin.com/in/seung-won-daemon)
+
 <img src="https://github-readme-stats.vercel.app/api?username=tristanjung1006&theme=shadow_red&show_icons=true" style="border-radius: 0; width: 400px; height: auto;">
 
 <div align="left">
