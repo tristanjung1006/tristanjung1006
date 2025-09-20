@@ -1,5 +1,9 @@
 <h1 align="left">Android Developer SeungWon (Daemon)</h1>
 
+<h3>Career</h3>
+ 
+* [KIRA](https://kiraapp.io/) Product Engineer (Android) <sub><sup>2025.09 - ing</sup></sub>   
+
 <h3>Experience</h3>
  
 * [CMC](https://cmc.makeus.in/) 17th Android Part Lead <sub><sup>2025.03 - 2025.08</sup></sub>   
