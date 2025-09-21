@@ -10,6 +10,7 @@
 * [CMC](https://cmc.makeus.in/) 16th Android Part <sub><sup>2024.12 - 2025.02</sup></sub>
 * [UMC](https://umc.makeus.in/) 7, 8th Android Part Central Lead <sub><sup>2024.09 - 2025.08</sup></sub>
 * [UMC](https://umc.makeus.in/) 5, 6th Android Part <sub><sup>2023.09 - 2024.08</sup></sub>
+* [INYRO](https://www.instagram.com/smu_inyro/) Member <sub><sup>2020.03 - 2020.12</sup></sub>
 
 <h3>Open Source</h3>
  
