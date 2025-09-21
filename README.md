@@ -11,6 +11,10 @@
 * [UMC](https://umc.makeus.in/) 7, 8th Android Part Central Lead <sub><sup>2024.09 - 2025.08</sup></sub>
 * [UMC](https://umc.makeus.in/) 5, 6th Android Part <sub><sup>2023.09 - 2024.08</sup></sub>
 
+<h3>Open Source</h3>
+ 
+* Contributor - [coil-kt/coil](https://github.com/coil-kt/coil/pull/3119)
+
 <h3>Education</h3>
  
 * Sangmyung University / Computer Science <sub><sup>2020.02 - 2026.02</sup></sub>
