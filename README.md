@@ -2,7 +2,7 @@
 
 <h3>Career</h3>
  
-* [KIRA](https://kiraapp.io/) Product Engineer (Android) <sub><sup>2025.09 - ing</sup></sub>   
+* [KATSBY](https://kiraapp.io/) Product Engineer (Android) <sub><sup>2025.09 - ing</sup></sub>   
 
 <h3>Experience</h3>
  
