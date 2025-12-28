@@ -2,7 +2,8 @@
 
 <h3>Career</h3>
  
-* [KATSBY](https://kiraapp.io/) Product Engineer (Android) <sub><sup>2025.09 - ing</sup></sub>   
+* [KATSBY](https://kiraapp.io/) Product Engineer (Android) <sub><sup>2025.09 - 2025.12</sup></sub>
+* [DaVal](https://daval-landingpage.vercel.app/) CTO <sub><sup>2026.01 - ing</sup></sub>
 
 <h3>Experience</h3>
  
