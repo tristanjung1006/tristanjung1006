@@ -2,7 +2,7 @@
 
 <h3>Career</h3>
 
-* [DaVal](https://www.linkedin.com/company/davalofficial) Foward Deployed Engineer <sub><sup>2025.12 - ing</sup></sub> 
+* [DAVAL](https://www.linkedin.com/company/davalofficial) Foward Deployed Engineer <sub><sup>2025.12 - ing</sup></sub> 
 * [KATSBY](https://kiraapp.io/) Product Engineer (Android) Intern <sub><sup>2025.09 - 2025.12</sup></sub>
 
 <h3>Experience</h3>
