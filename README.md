@@ -1,4 +1,4 @@
-<h1 align="left">Android Developer SeungWon (Daemon)</h1>
+<h1 align="left">SeungWon (Daemon)</h1>
 
 <h3>Career</h3>
 
@@ -25,8 +25,6 @@
 
 * [Tech Blog](https://velog.io/@tristanjung1006/)
 * [LinkedIn](https://www.linkedin.com/in/seung-won-daemon)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tristanjung1006&theme=shadow_red&show_icons=true" style="border-radius: 0; width: 400px; height: auto;">
 
 <div align="left">
   <img src="https://img.shields.io/badge/jjjssswww1006@gmail.com-ME-d14836?style=for-the-badge&logo=gmail&link=mailto:jjjssswww1006@gmail.com"/>
