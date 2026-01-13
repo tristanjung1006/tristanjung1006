@@ -2,7 +2,7 @@
 
 <h3>Career</h3>
 
-* [DAVAL](https://www.linkedin.com/company/davalofficial) CTO <sub><sup>2025.12 - ing</sup></sub> 
+* [DAVAL](https://daval-landingpage.vercel.app/en) CTO <sub><sup>2025.12 - ing</sup></sub> 
 * [KATSBY](https://kiraapp.io/) Product Engineer (Android) Intern <sub><sup>2025.09 - 2025.12</sup></sub>
 
 <h3>Experience</h3>
